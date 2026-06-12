@@ -1,0 +1,14 @@
+{
+  "name": "FIFA World Cup 2026 Tracker",
+  "short_name": "WC2026",
+  "description": "Track scores, groups and knockout rounds for FIFA World Cup 2026",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

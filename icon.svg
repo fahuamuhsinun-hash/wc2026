@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#020617"/>
+  <rect width="512" height="512" rx="80" fill="url(#g)"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="220" r="130" fill="white"/>
+  <circle cx="256" cy="220" r="130" fill="none" stroke="#facc15" stroke-width="12"/>
+  <!-- Soccer ball pattern -->
+  <polygon points="256,110 290,150 270,195 242,195 222,150" fill="#020617"/>
+  <polygon points="170,170 200,150 222,195 200,225 160,215" fill="#020617"/>
+  <polygon points="342,170 312,150 290,195 312,225 352,215" fill="#020617"/>
+  <polygon points="190,275 200,225 242,195 270,195 312,225 322,275 290,300 222,300" fill="#020617"/>
+  <text x="256" y="400" text-anchor="middle" font-family="Arial Black,sans-serif" font-weight="900" font-size="72" fill="#facc15">2026</text>
+</svg>
